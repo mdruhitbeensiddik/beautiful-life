@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
     for(int i=1;i<=20;i++){
-printf("life is beautiful\n");}
+printf("rose\n");}
 return 0;
 }
