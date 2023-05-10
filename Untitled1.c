@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
-printf("life is critical");
+    for(int i=1;i<=20;i++){
+printf("life is critical\n");}
 return 0;
 }
